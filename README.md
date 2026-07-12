@@ -8,7 +8,8 @@
   <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>
 </h1>
  <p align = "justify">
-Ingeniero en Sistemas y Educador Matemático de profesión (con título y cédula), con un fuerte trasfondo en Diseño Gráfico. Originario del Estado de México, he encontrado mi mayor pasión en el punto donde la tecnología, la lógica matemática y la comunicación visual se conectan. Me considero un aprendiz eterno, dedicado a profundizar diariamente en estas tres disciplinas para crear soluciones integrales, lógicas y estéticamente funcionales.
+Ingeniero en Sistemas y Educador Matemático de profesión (con título y cédula), con un fuerte trasfondo en Diseño Gráfico. Originario del Estado de México, encuentro mi mayor pasión en el punto donde la tecnología, la lógica matemática y la comunicación visual se conectan. </p>
+<p>Me considero un aprendiz eterno, dedicado a profundizar diariamente en estas tres disciplinas para crear soluciones integrales, lógicas y estéticamente funcionales.
 </p>
 <table align="center">
 	 <td><img src="https://gifgifs.com/animations/computers-technology/computers-and-parts/happy_1.gif" border="0" alt="Happy 1" /> </td>
@@ -89,3 +90,4 @@ Ingeniero en Sistemas y Educador Matemático de profesión (con título y cédul
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+<small>Gerardo Garduno Rosas</small>

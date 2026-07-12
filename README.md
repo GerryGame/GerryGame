@@ -1,6 +1,7 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=false />
 </div>
+<img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" height="200" >
 <h1  align="center">
   <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px>
   ¡Hola! Soy Gerardo Garduño Rosas
@@ -68,6 +69,23 @@ Ingeniero en Sistemas y Educador Matemático de profesión (con título y cédul
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="right">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=160F96&size=20&center=true&lines=DISEÑO+GRAFICO%20;%20;Illustrator%20;Gimp%20;Canva%20;Blender+Maya+Zbrush%20;Pixel+Art%20;Entre+otras...%20" width="700" />
+</p>
+
+<p align="center">
+	<img src="https://static.vecteezy.com/system/resources/previews/066/118/529/non_2x/adobe-illustrator-cc-icon-app-logo-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="100">
+	<img src="https://static.vecteezy.com/system/resources/previews/038/600/554/non_2x/adobe-photoshop-logos-adobe-icons-abstract-art-free-vector.jpg" width="100">
+	<img src="https://1000marcas.net/wp-content/uploads/2020/12/GIMP-Logo.png" width="100">
+	<br/>
+	<img src="https://download.blender.org/branding/blender_logo_socket.png" width="100">
+	<img src="https://1000marcas.net/wp-content/uploads/2021/02/Maya-Logo.png" width="100">
+	<img src="https://1000marcas.net/wp-content/uploads/2021/06/ZBrush-Logo.png" width="100">
+	<br/>
+	<img src="https://images.seeklogo.com/logo-png/37/2/substance-by-adobe-logo-png_seeklogo-373349.png" width="100">
+	
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>

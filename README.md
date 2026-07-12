@@ -37,7 +37,37 @@ Ingeniero en Sistemas y Educador Matemático de profesión (con título y cédul
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
+
+<p align="right">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=160F96&size=15&center=true&lines=INGENIERO+EN+SISTEMAS+COMPUTACIONALES%20;Desarrollo+Web%20;Programacion%20;Geometria%20;VideoJuegos+C#+Unity%20;Bases+De+Datos%20;Entre+otras...%20" width="700" />
+</p>
+
+<p align="center">
+	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRoOG9mbTV3Nmd5bWowMDltbGN4dzVjNzhmODZkb3R2aWo0eGJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+	<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hwOTByMDNnN3drMzd5Zzh4dnJ1cnYyanA2aXdtcXgxOTBsdjdybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+  	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+	<br/>
+    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+    <img src="https://cpp.com.mx/images/logo.png" width="100">
+	<img src="https://proyectoa.com/wp-content/uploads/2019/08/CSharp.png" width="100">
+	<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9ibHRncWwwbmo3MDMwbXFnbzNnaWx1M3NybXVxbmF0eG4zZzRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" width="100">
+	<br/>
+	<img src="https://cdn.dribbble.com/userupload/20232591/file/original-94bccdd67b23847d6d1a8ebf73537d48.gif" width="100">
+	<br/>
+   	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   	<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   	<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+	<br />
+	<img src="https://www.arduino.cc/wiki/static/0e958b481fb57049d781f50ab358a2cb/0b533/ArduinoCommunityLogo-up.png"  width="100">
+	<br>
+ 	<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=32B8BA&size=40&center=true&lines=MUCHOS+MAS....%20" width="700" />
+</p>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
